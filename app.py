@@ -10,4 +10,4 @@ def hello_world():
 
 if __name__ == '__main__':
     app.run()
-    print('版本2')
+    print('版本3')
